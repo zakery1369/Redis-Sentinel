@@ -3,15 +3,15 @@
 
 - ## Install Redis on Debian
 
-1.Update Debian System Packages
+1.Update Debian System Packages.
 ```
 sudo apt update
 ```
-2.Install Required Packages
+2.Install Required Packages.
 ```
 sudo apt install software-properties-common apt-transport-https curl ca-certificates -y
 ```
-3.Install Redis with APT Debian Repository
+3.Install Redis with APT Debian Repository.
 ```
 sudo apt install redis redis-server redis-tools redis-sentinel
 ```
