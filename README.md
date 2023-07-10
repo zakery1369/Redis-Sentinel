@@ -26,8 +26,8 @@ Edit /etc/redis/redis.conf
 ```
 protected-mode yes
 port 6379
-masterauth a-very-complex-password-here
-requirepass a-very-complex-password-here
+masterauth complex-password-here
+requirepass complex-password-here
 bind redis-1-IP
 ```
 - ## Redis-2 Configuration
