@@ -1,5 +1,5 @@
 # Redis-Sentinel
-![Redis Sentinel](https://github.com/zakery1369/Redis-Sentinel/blob/master/Redis.png)
+![Redis Sentinel](https://raw.githubusercontent.com/zakery1369/pics/master/Redis.png)
 
 - ## Install Redis on Debian
 
