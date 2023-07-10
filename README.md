@@ -1,5 +1,5 @@
 # Redis-Sentinel
-![Wordpress Docker](https://raw.githubusercontent.com/zakery1369/pics/master/Wordpress.png)
+![Redis Sentinel](https://github.com/zakery1369/Redis-Sentinel/blob/master/Redis.png)
 
 - ## Install Redis on Debian
 
